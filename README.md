@@ -1,2 +1,2 @@
 # crossfit
-Colocando meu primeiro site no ar
+:bulb: Colocando meu primeiro site no ar
